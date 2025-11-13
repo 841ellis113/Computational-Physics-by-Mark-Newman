@@ -1,0 +1,2 @@
+This chapters deals with integration and differantion. Intgeration is extremely important in the physical sciences as it is one of the core methods for soving initial conditions and problems with boundary conditions.
+Methods of integration include the Simpson Rule (quadratic estimation), the Trapezium Rule (linear estimation), Romberg integration and the powerful Gaussian Quadrature.
