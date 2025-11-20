@@ -1,7 +1,5 @@
 import numpy
 
-A = numpy.array([[2,1,4,1],[3,4,-1,-1],[1,-4,1,5],[2,-2,1,3]],float)
-Y = numpy.array([-4,3,9,7],float)
 #SOLVES A*X = Y for X.
 #input is a square matrix, A, which has no leading zeros, that is, no element of
 #the first column can have a zero value and Value matrix, Y, from which we use to find X vector
@@ -47,6 +45,7 @@ def Square_Matrix_Solver(A,Y):
     return X_Vector
 
             
+
 
 
 
